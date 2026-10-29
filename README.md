@@ -61,7 +61,7 @@ The tuned decision tree recovers more subscribers at its default threshold, but 
 
 `MODEL_N=12000`, `SEED=42`, 80/20 stratified train/holdout split, 3-fold training CV and fixed grids are defined directly in the notebook. Feature preprocessing uses pipelines fitted **inside each CV fold**. CPU runtime depends on hardware; a standard laptop may run SVM searches slower than the environment used to generate this submission.
 
-**Source provenance:** the byte-for-byte UCI `bank-additional-full.csv` extracted from the course starter ZIP has SHA-256 `{s['dataset_sha256']}`. The source data are 41,188 contact rows × 21 fields, and there is no attempt to represent this as 41,188 unique clients.
+**Source provenance:** the byte-for-byte UCI `bank-additional-full.csv` extracted from the course starter ZIP has SHA-256 `233e260d5d1d506a2c10381da5b8c2f75f2c08d1b373ca7b825e39ebe1bd30df`. The source data are 41,188 contact rows × 21 fields, and there is no attempt to represent this as 41,188 unique clients.
 
 ## Repository contents
 
