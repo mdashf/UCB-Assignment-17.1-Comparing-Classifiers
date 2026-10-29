@@ -1,0 +1,19 @@
+,value
+full_rows,41188
+full_positive,4640
+full_positive_rate,0.11265417111780131
+campaigns_in_source_paper,17
+model_sample,12000
+train_rows,9600
+test_rows,2400
+cv_winner,Logistic regression
+cv_winner_AP,0.44812404806875333
+test_winner_AP,0.46244836252022276
+test_winner_ROC_AUC,0.7751278038601982
+test_winner_accuracy,0.9029166666666667
+test_winner_recall,0.25925925925925924
+test_winner_precision,0.6796116504854369
+top_20pct_precision,0.3541666666666667
+top_20pct_lift,3.1481481481481484
+dataset_sha256,233e260d5d1d506a2c10381da5b8c2f75f2c08d1b373ca7b825e39ebe1bd30df
+modeling_seed,42

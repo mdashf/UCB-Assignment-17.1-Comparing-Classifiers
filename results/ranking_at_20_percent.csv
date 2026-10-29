@@ -1,0 +1,7 @@
+,value
+cv_selected_model,Logistic regression
+n_holdout,2400
+prevalence,0.1125
+top_20pct_precision,0.3541666666666667
+top_20pct_recall,0.6296296296296297
+top_20pct_lift,3.1481481481481484

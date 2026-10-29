@@ -1,0 +1,5 @@
+model,cv_AP,best_parameters,search_seconds,grid_candidates
+Logistic regression,0.44812404806875333,"{'classifier__C': 1.0, 'classifier__class_weight': None}",3.425752975999785,6
+KNN,0.4160290456729103,"{'classifier__n_neighbors': 51, 'classifier__weights': 'uniform'}",2.267448145000344,6
+Decision tree,0.4099301619155474,"{'classifier__class_weight': 'balanced', 'classifier__max_depth': 12, 'classifier__min_samples_leaf': 80}",0.8376922620000187,6
+SVM (RBF),0.40685378580817727,"{'classifier__C': 0.5, 'classifier__class_weight': None}",16.310950547000175,4
